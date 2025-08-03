@@ -2,5 +2,6 @@
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.project.sourcePaths": [
         "Week-3/JPA Spring Boot hibernate Exercises"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
